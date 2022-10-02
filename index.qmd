@@ -1,0 +1,299 @@
+---
+title: "Nalanda's Journey"
+date: "Democratising education,<br>Empowering communities"
+format: 
+  revealjs:
+    incremental: false   
+    theme: blue-nalanda.scss
+    transition: fade
+    background-transition: fade
+    logo: logo.png
+title-slide-attributes:
+ data-background-image: cover.gif
+ data-background-size: cover
+ data-background-opacity: "0.1"
+ data-background-color: "#003366"
+code-link: true    
+editor: visual
+---
+
+-   Thank you all for joining us today!
+
+-   Nalanda Foundation Day on 27^th^ September
+
+-   Celebrating it today with our community
+
+-   Started the Academy in 2013
+
+-   But its story started some 23-24 years back
+
+## Problems
+
+-   First hand experience of problems in an Engineering College in UP (1995-98) - blatant caste discrimination, language bias, no support system for our students
+-   The concept of "merit" as opposed to policy of reservations
+
+## Insight Magazine - A student magazine (2004-08)
+
+-   Started in 2004, in JNU
+
+-   First of its kind in India. By students themselves
+
+-   Became a platform for students from more than 80 universities
+
+-   Focus on publishing our student's success stories and their views
+
+------------------------------------------------------------------------
+
+::: {layout-ncol="3"}
+![](image/insight1.png){width="300"}
+
+![](image/insight2.png){width="300"}
+
+![](image/insight3.png){width="300"}
+:::
+
+## Insight Foundation (2007-13)
+
+-   Magazine helped us to build a network across the country
+
+-   Also exposed us to the rampant discrimination and other problems
+
+-   Felt the need to document and create a student support system
+
+-   Formed Insight Foundation in 2007 with a few friends:
+
+    -   National Students Telephone Helpline
+
+    -   Dalits and Adivasi Students Portal
+
+    -   Documentation/reports on students' issues
+
+#  {background-image="image/insight-friends.png" background-size="cover"}
+
+#  {background-image="image/insight-friends2.png" background-size="cover"}
+
+------------------------------------------------------------------------
+
+![](image/movie1.png){fig-align="center" width="300"}
+
+------------------------------------------------------------------------
+
+![](image/movie2.png){fig-align="center" width="300"}
+
+## Insight Foundation (2007-13)
+
+- Resulted in some discussion on discrimination in Indian campuses
+
+- Despite government assurance, no justice
+
+- Very depressing
+
+- Closed Insight Foundation
+
+- Recognised the need to prepare our students at grassroots
+
+---
+
+## Wardha - 2013
+
+- I was always fascinated by Maharashtra and Buddhism
+
+- In 2013 August got an opportunity to visit Wardha
+
+- Dr. Babasaheb Ambedkar College of Social work via Dr. Chetana Sawai
+
+- Trained 22 women students for 4 months for TISS entrance
+
+- 5 selections in TISS campuses
+
+- Got new perspective on supporting our students.
+
+------------------------------------------------------------------------
+
+![](image/anoop-chalk.png){fig-align="center" width="300"}
+
+------------------------------------------------------------------------
+
+![](image/first-batch.png){fig-align="center" width="300"}
+
+## Subedar Ramji Ambedkar Library, 2014
+
+![](image/lib-ambedkar.png){fig-align="center" width="300"}
+---
+
+## Formation of Nalanda Academy
+
+- Started teaching in different Buddha Vihars
+
+- Students started coming from different parts
+
+- Shifted to *Samyak Buddha Vihar* in 2015
+
+- Began with almost no resources
+
+---
+
+![](image/vihar-batch.png){fig-align="center" width="300"}
+
+---
+
+![](image/vihar-clean.png){fig-align="center" width="300"}
+
+---
+
+![](image/vihar-lib.png){fig-align="center" width="300"}
+---
+
+::: {layout-ncol="2"}
+
+![](image/abhi.png){fig-align="left"}
+
+- Academy started taking shape
+
+- Community support increased
+
+- Students started joining from many other states
+
+- Started teaching over 100 students every year
+
+- Turning point was when my friend **Abhiyan Humane** joined hands in 2016 to train students in sciences
+
+:::
+
+---
+
+![](image/lab1.png){fig-align="center"}
+
+---
+
+![](image/lab2.png){fig-align="center"}
+
+---
+
+![](image/lab3.png){fig-align="center"}
+
+---
+
+![](image/lab4.png){fig-align="center"}
+
+---
+
+## Abhiyan Humane
+
+- Toghether with Abhiyan started our outreach programs in 2017-18
+
+- Community support for renovation of Vihar and classroom
+
+- Abhiyan sets up Nalanda Science and Tech Lab in 2018
+
+- Over 200 students every year now from 12-15 states
+
+- Shared vision of residential campus
+
+---
+
+![](image/vihar-renov.png){fig-align="center"}
+
+---
+
+![](image/class-tiles.png){fig-align="center"}
+
+---
+
+![](image/class-students.png){fig-align="center"}
+---
+
+![](image/abhi-class.png){fig-align="center"}
+
+---
+
+![](image/kids-sci.png){fig-align="center"}
+
+- Unfortunately, we lost Abhiyan in February 2019
+
+- A huge personal and community's loss
+
+- Initiated Abhiyan Community Libraries with support from his partner Bijal and other friends
+
+---
+
+![](image/land-campus.png){fig-align="center"}
+
+- Initiated the plan for Nalanda Abhiyan Campus
+
+- Donation of 9 acres of land by Abhiyan bhai's parents in 2020
+
+---
+
+## Digital Nalanda, 2020
+
+![](image/digi-nalanda.png){fig-align="center"}
+---
+
+## Digital Nalanda, 2020
+
+- March 2020 - disruption in classes due to the COVID pandemic
+
+- Started teaching online
+
+- With the help of many friends, launched Digital Nalanda on 14^th^ October 2020
+
+---
+
+## Digital Nalanda, 2020
+
+- In two years, a successful e-resource centre:
+  - Over 1200 video lectures & sessions
+  - 12 Schools covering many professional domains like management, law, medicine, art and design
+  - 200 plus mentors from across the globe
+  - Over 14,000 subscribers
+  
+---
+
+## Achievements
+
+- Almost 100% success rate in offline classes
+
+- More than 1000 students in top universities in India
+
+- 22 students in top universities abroad
+
+- Digital Nalanda with over 14,000 subscribers
+
+- Provide all facilities both offline and online free of cost
+
+- Provide scholarship and other financial aid to students
+
+---
+
+## Impact
+
+- Out students become more aware
+
+- Higher self-confidence and motivation
+
+- Positive sense of community
+
+- A robust Alumni and Mentor network across the globe
+
+- Many Nalanda like initiative taken up by our Alumni - Odisha, Rajasthan, UP, Bihar, Maharashtra etc.
+
+- **Pay Back to Nalanda**
+
+---
+
+## Support
+
+- Individual donations from those who believe in Ambedkarite path of empowerment through education
+
+- From Ambedkarite organisations like SCAN, BANAE, Human Metta Foundation, AIM, AANA etc.
+
+- Impossible without the local Buddhist community, especially the Samyak Buddha Vihar Mahila Mandal. We owe everything to this group
+
+---
+
+## Support
+
+- Thanks to all our friends, well-wishers, my students and staff who showed faith in Nalanda's vision and became part of Nalanda family
+
+- Thanks so much! JAI BHIM!!
